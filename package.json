@@ -1,0 +1,26 @@
+{
+  "name": "doilookupjs",
+  "version": "1.0.0",
+  "description": "DOI Lookup library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapkyca/doilookupjs.git"
+  },
+  "keywords": [
+    "doi"
+  ],
+  "author": "Marcus Povey <marcus@marcus-povey.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapkyca/doilookupjs/issues"
+  },
+  "homepage": "https://github.com/mapkyca/doilookupjs#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
